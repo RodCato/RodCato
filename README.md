@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @RodCato
+<p align="center">
+  <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Catalino%20(aka%20Rod)%20;Full%20Stack%20Web%20Developer;Excited%20to%20code%20and%20connect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 <div align="center">
  <br />
 
