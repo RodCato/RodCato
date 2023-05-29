@@ -5,7 +5,7 @@
  <br />
 
 
-| ![RodCato's github stats](https://github-readme-stats.vercel.app/api?username=RodCato&show_icons=true&theme=transparent) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodCato&theme=transparent&border_radius=4.6)](https:// crod.co) |
+| ![RodCato's github stats](https://github-readme-stats.vercel.app/api?username=RodCato&show_icons=true&theme=transparent) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodCato&theme=transparent&border_radius=4.6)](https://crod.co) |
 | --- | --- |
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCato&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/RodCato/)| ![Github Stars](https://github-readme-stats.vercel.app/api?username=RodCato&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
