@@ -1,3 +1,4 @@
+
 <p align="center">
  <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Catalino%20(aka%20C%20Rod)%20;Full%20Stack%20Web%20Developer;Multi-Potentialite%20Extraordinaire;Thanks%20for%20stopping%20by🙌🏽!&font=Josefin%20Sans&center=true&width=650&height=90&color=0c7dff&vCenter=true&size=45%62"></a> 
 </p>
@@ -11,7 +12,7 @@
 <br>
 
 
- [![Follow me on CodeWars](https://www.codewars.com/users/RodCato/badges/large 'CodeWars Profile - Lets be allies!')](https://www.codewars.com/users/RodCato){:target="_blank"}
+ [![Follow me on CodeWars](https://www.codewars.com/users/RodCato/badges/large 'CodeWars Profile - Lets be allies!')](https://www.codewars.com/users/RodCato)
  
   
 
