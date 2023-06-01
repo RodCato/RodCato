@@ -11,8 +11,7 @@
 <br>
 
 
- [![Follow me on CodeWars](https://www.codewars.com/users/RodCato/badges/large 'CodeWars Profile - Lets be allies!')](https://www.codewars.com/users/RodCato)
-
+ [![Follow me on CodeWars](https://www.codewars.com/users/RodCato/badges/large 'CodeWars Profile - Lets be allies!')](https://www.codewars.com/users/RodCato){:target="_blank"}
  
   
 
