@@ -14,12 +14,22 @@
 [![RodCato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=36909aee-5bcd-487e-ba59-26e85f89c050&theme=transparent)](https://wakatime.com/@RodCato)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCato&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/RodCato/)
+
 <br>
 
 
  [![Follow me on CodeWars](https://www.codewars.com/users/RodCato/badges/large 'CodeWars Profile - Lets be allies!')](https://www.codewars.com/users/RodCato)
  
   
+## Connect With Me
+<a href="https://www.linkedin.com/in/catalinorodriguez/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
+## ⚡️Stack
+### Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> 
 
+### Frameworks
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> 
 </div>
