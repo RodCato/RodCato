@@ -31,4 +31,12 @@
 ### Frameworks
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+ ![reactstrap](https://img.shields.io/badge/reactstrap-white?style=for-the-badge&logo=react&logoColor=323330)
+
+#### Databases: 
+![postgresql](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![activerecord](https://img.shields.io/badge/activerecord-white?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)
+ #### Testing: 
+![jest](https://img.shields.io/badge/Jest-853957?style=for-the-badge&logo=jest&logoColor=white)
+![RSPEC](https://img.shields.io/badge/RSPEC-fc9cac?style=for-the-badge&logo=ruby&logoColor=6ce0f9)
 </div>
