@@ -21,7 +21,7 @@
  <a href="https://www.twitter.com/CRodDev" target="_blank" rel="noopener noreferrer">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
  </a> 
-  <a href="https://www.codewars.com/users/RodCato" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.codewars.com/r/pi9_Uw" target="_blank" rel="noopener noreferrer">
    <img src="https://www.codewars.com/users/RodCato/badges/micro" alt="CodeWars">
  </a>
 
