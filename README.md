@@ -4,15 +4,6 @@
 </p>
 <p align="center"> <img src="https://media.licdn.com/dms/image/D4E16AQFAbnt-01u72w/profile-displaybackgroundimage-shrink_350_1400/0/1686171819317?e=1691625600&v=beta&t=b8TQRzvX0H0gga_6fA3njegQY5xFZHeRY2iDpiLO2rk">
  </p>
-<div align="center">
- <br />
-
-
-|![RodCato's github stats](https://github-readme-stats.vercel.app/api?username=RodCato&show_icons=true&theme=transparent)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodCato&theme=transparent&border_radius=4.6)](https://crod.co) 
-| --- | --- |
-|[![RodCato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=36909aee-5bcd-487e-ba59-26e85f89c050&theme=transparent)](https://wakatime.com/@RodCato)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCato&layout=compact&theme=transparent)|
-
-<br>
 
 ## 💻 Connect With Me
 <a href="https://www.linkedin.com/in/catalinorodriguez/" target="_blank" rel="noopener noreferrer">
@@ -23,20 +14,20 @@
  </a> 
   <a href="https://www.codewars.com/r/pi9_Uw" target="_blank" rel="noopener noreferrer">
    <img src="https://www.codewars.com/users/RodCato/badges/micro" alt="CodeWars">
- </a>
+ </a> </br>
+ <h3 align="left">🤔 About me</h3>
+ <p>👋🏽 My name is Catalino Rodriguez (aka C Rod), and I am a US Army Combat Veteran🪖. Currently, I am a Software Engineer intern at <a href="https://goloadup.com" target="_blank" rel="noreferrer">LoadUp</a>. I bring a unique blend of problem-solving skills, creativity, and real-world experience to the table. With a passion for helping others, I thrive on finding innovative solutions that address the needs of both clients and end-users. Through my military background and growth mindset I have honed my ability to work well under pressure, adapt to rapidly changing environments, and collaborate effectively with diverse teams. I am excited to apply my technical expertise and dedication to creating impactful web solutions that make a difference 🚀.</p>
 
-## 🧰 Skills
-### Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> 
-### Frameworks
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
- ![reactstrap](https://img.shields.io/badge/reactstrap-white?style=for-the-badge&logo=react&logoColor=323330)
+  <h3 align="left">🧰 Tools</h3>
+<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ <h3 align="left">🧮 Stats </h3>
+<div align="center">
+ <br />
 
-#### Databases: 
-![postgresql](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
-![activerecord](https://img.shields.io/badge/activerecord-white?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)
- #### Testing: 
-![jest](https://img.shields.io/badge/Jest-853957?style=for-the-badge&logo=jest&logoColor=white)
-![RSPEC](https://img.shields.io/badge/RSPEC-fc9cac?style=for-the-badge&logo=ruby&logoColor=6ce0f9)
+
+|![RodCato's github stats](https://github-readme-stats.vercel.app/api?username=RodCato&show_icons=true&theme=transparent)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodCato&theme=transparent&border_radius=4.6)](https://crod.co) 
+| --- | --- |
+|[![RodCato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=36909aee-5bcd-487e-ba59-26e85f89c050&theme=transparent)](https://wakatime.com/@RodCato)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCato&layout=compact&theme=transparent)|
+
 </div>
+
