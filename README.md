@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
  </a> 
   <a href="https://www.codewars.com/r/pi9_Uw" target="_blank" rel="noopener noreferrer">
-   <img src="https://www.codewars.com/users/RodCato/badges/micro" alt="CodeWars">
+   <img src="https://www.codewars.com/users/CRodDev/badges/micro" alt="CodeWars">
  </a> </br>
  <h3 align="left">🤔 About me</h3>
  <p>👋🏽 My name is Catalino Rodriguez (aka C Rod), and I am a US Army Combat Veteran🪖. Currently, I am a Software Engineer intern at <a href="https://goloadup.com" target="_blank" rel="noreferrer">LoadUp</a>. I bring a unique blend of problem-solving skills, creativity, and real-world experience to the table. With a passion for helping others, I thrive on finding innovative solutions that address the needs of both clients and end-users. Through my military background and growth mindset I have honed my ability to work well under pressure, adapt to rapidly changing environments, and collaborate effectively with diverse teams. I am excited to apply my technical expertise and dedication to creating impactful web solutions that make a difference 🚀.</p>
