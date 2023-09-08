@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Hi,%20I'm%20Catalino%20(aka%20C%20Rod)%20;🪄%20Software%20Engineer;🪄%20Multi-Potentialite%20Extraordinaire;🪄%20Thanks%20for%20stopping%20by🙌🏽!&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
+ <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Hi,%20I'm%20Catalino%20(aka%20C%20Rod)%20;🪄%20Software%20Engineer;🪄%20Multi-Potentialite%20Extraordinaire&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
 </p>
 <p align="center"> <img src="tweetbanner1.png">
  </p>
@@ -30,4 +30,7 @@
 |[![RodCato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=36909aee-5bcd-487e-ba59-26e85f89c050&theme=transparent)](https://wakatime.com/@RodCato)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCato&layout=compact&theme=transparent)|
 
 </div>
+<p align="center">
+ <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Follow%20me%20and%20I%20will%20follow%20you🤝;🪄%20Thanks%20for%20stopping%20by🙌🏽!&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
+</p>
 
