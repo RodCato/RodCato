@@ -31,6 +31,6 @@
 
 </div>
 <p align="center">
- <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Follow%20me%20and%20I%20will%20follow%20you🤝;🪄%20Thanks%20for%20stopping%20by🙌🏽!&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
+ <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Available%20to%20collaborate%20on%20projects🤝;🪄%20Thanks%20for%20stopping%20by🙌🏽!&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
 </p>
 
