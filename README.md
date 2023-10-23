@@ -23,6 +23,7 @@
 
 ## 📖 Posts from my Blog 
 <!-- BLOG-POST-LIST:START -->
+- [Gamer Vault Lessons Learned](https://catalinorodriguez.com/2023/10/22/gamer-vault-lessons-learned/)
 <!-- BLOG-POST-LIST:END -->
 
  <h3 align="left">🧮 Stats </h3>
