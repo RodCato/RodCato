@@ -20,8 +20,9 @@
 
  ## 📖 Posts from my Blog 
 <!-- BLOG-POST-LIST:START -->
+- [From Solo to Team Coding: My Chingu.io Journey](https://catalinorodriguez.com/2023/10/24/solo-coding-to-collaborative-development/)
 - [Gamer Vault Lessons Learned](https://catalinorodriguez.com/2023/10/22/gamer-vault-lessons-learned/)
-- [My Dive into Full Stack: Unraveling the Curriculum at LEARN Academy](https://catalinorodriguez.com/2023/07/22/my-dive-into-full-stack-unraveling-the-curriculum-at-learn-academy/)
+- [Unraveling the Curriculum at LEARN Academy](https://catalinorodriguez.com/2023/08/22/curriculum-at-learn-academy/)
 <!-- BLOG-POST-LIST:END -->
 
   <h3 align="left">🧰 Tools</h3>
