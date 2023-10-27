@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/catalinorodriguez/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  </a>
- <a href="https://www.twitter.com/CRodDev" target="_blank" rel="noopener noreferrer">
- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
- </a> 
+ 
   <a href="https://www.codewars.com/r/pi9_Uw" target="_blank" rel="noopener noreferrer">
    <img src="https://www.codewars.com/users/CRodDev/badges/micro" alt="CodeWars" height="25px">
  </a> 
