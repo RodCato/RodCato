@@ -13,8 +13,20 @@
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
  </a> 
   <a href="https://www.codewars.com/r/pi9_Uw" target="_blank" rel="noopener noreferrer">
-   <img src="https://www.codewars.com/users/CRodDev/badges/micro" alt="CodeWars">
- </a> </br>
+   <img src="https://www.codewars.com/users/CRodDev/badges/micro" alt="CodeWars" height="25px">
+ </a> 
+ <a
+              href="https://crod.co/x"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://img.shields.io/twitter/follow/CrodDev"
+                alt="X"
+                height="25px"
+              />
+            </a>
+ </br>
  <h3 align="left">🤔 About me</h3>
  <p>Hey there! 👋🏽 I'm Catalino, but you can call me C Rod. I'm a proud US Army Combat Veteran🪖 and now a Full Stack Web Developer💻 at LoadUp. I love🫶🏽 blending my military experience with tech to find innovative solutions that truly help. Excited to make a difference with my skills! 🚀</p>
 
