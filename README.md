@@ -30,6 +30,7 @@
 
  ## 📖 Posts from my Blog 
 <!-- BLOG-POST-LIST:START -->
+- [#100DaysofCode: Growth Hack for Junior Devs](https://catalinorodriguez.com/2023/10/29/100daysofcode-growth-hack-for-junior-devs/)
 - [Swift Context Switching: Mastering Git Stash](https://catalinorodriguez.com/2023/10/27/mastering-git-stash/)
 - [From Solo to Team Coding: My Chingu.io Journey](https://catalinorodriguez.com/2023/10/24/solo-coding-to-collaborative-development/)
 - [Gamer Vault Lessons Learned](https://catalinorodriguez.com/2023/10/22/gamer-vault-lessons-learned/)
