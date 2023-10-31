@@ -2,7 +2,7 @@
 <p align="center">
  <a href="https://github.com/RodCato"><img src="https://readme-typing-svg.herokuapp.com/?lines=🪄%20Hi,%20I'm%20Catalino%20(aka%20C%20Rod)%20👋🏽;🪄%20Full%20Stack%20Web%20Developer%20💻;🪄%20Multi-Potentialite%20Extraordinaire&font=Josefin%20Sans&center=true&width=650&height=90&weight=700&color=0c7dff&vCenter=true&size=35%42"></a> 
 </p>
-<p align="center"> <img src="https://pbs.twimg.com/profile_banners/1664698604089495553/1698639992/1500x500">
+<p align="center"> <img src="tweetbanner.png">
  </p>
 
 ## 💻 Connect With Me
