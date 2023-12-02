@@ -26,7 +26,7 @@
             </a>
  </br>
  <h3 align="left">🤔 About me</h3>
- <p>Hey there! 👋🏽 I'm Catalino, but you can call me C Rod. I'm a proud US Army Combat Veteran🪖 and now a Full Stack Web Developer💻. I love🫶🏽 blending my military experience with tech to find innovative solutions that truly help. Excited to make a difference with my skills! 🚀</p>
+ <p>Hello! 👋🏽 I'm Catalino, but you can call me C Rod. I'm a proud US Army Combat Veteran🪖 and now a Full Stack Web Developer💻. I love🫶🏽 blending my military experience with tech to find innovative solutions that truly help. Excited to make a difference with my skills! 🚀</p>
 
  ## 📖 Posts from my Blog 
 <!-- BLOG-POST-LIST:START -->
